@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SeekBarColor</string>
+    <string name="red">Red color: </string>
+    <string name="blue">Blue color: </string>
+    <string name="green">Green color: </string>
+</resources>
